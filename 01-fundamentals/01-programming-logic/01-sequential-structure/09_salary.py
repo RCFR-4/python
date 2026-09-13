@@ -7,4 +7,4 @@ tax_value = salary * (tax / 100)
 final_salary = salary - tax_value
 
 
-print(f"The final salary after tax is:{final_salary:.2f}")
+print(f"The final salary after tax is: {final_salary:.2f}")

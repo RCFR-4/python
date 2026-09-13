@@ -1,6 +1,6 @@
 # Ask the user for an integer and display whether it is even or odd.
 
-number = int(input("Enter an intenger: "))
+number = int(input("Enter an integer: "))
 
 if number % 2 == 0:
     print("The number is even")

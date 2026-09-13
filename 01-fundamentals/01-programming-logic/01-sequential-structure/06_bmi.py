@@ -5,4 +5,4 @@ height = float(input("Enter your height: "))
 
 bmi = weight / (height * height)
 
-print(f"Your bmi is: {bmi:.2f}")
+print(f"Your BMI is: {bmi:.2f}")
