@@ -5,4 +5,4 @@ total_people = int(input("Enter how many people will split the bill: "))
 
 division = total_bill / total_people
 
-print(f"Each person will pay: {division:.2f} ")
+print(f"Each person will pay: {division:.2f}")

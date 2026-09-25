@@ -3,7 +3,7 @@
 price_total = float(input("Enter the price of the product: "))
 discount = float(input("Enter the discount percentage: "))
 
-valor_discount = price_total * (discount / 100)
-final_price = price_total - valor_discount
+discount_value = price_total * (discount / 100)
+final_price = price_total - discount_value
 
-print(f"The final price of product with the discount is: {final_price:.2f}")
+print(f"The final price of the product with the discount is: {final_price:.2f}")
